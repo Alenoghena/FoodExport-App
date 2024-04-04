@@ -1,0 +1,44 @@
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 5px;
+  font-size: 1rem;
+  list-style: none;
+  width: 100%;
+
+  color: #eee;
+}
+
+.heading {
+  font-size: 3rem;
+}
+
+.selItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.liMessage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+.selItem svg {
+  width: 48px;
+  min-width: 48px;
+  height: 36px;
+
+  /* font-size: 2rem; */
+  color: #093305;
+  cursor: pointer;
+}
+
+h4 {
+  font-size: 18px;
+}

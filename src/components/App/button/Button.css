@@ -1,0 +1,15 @@
+.liBtn {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.toggleButton {
+  font-size: 25px;
+  padding: 6px 14px;
+  border-radius: 15px;
+  border: none;
+  color: #fff;
+  background-color: #367af6;
+  /* margin-top: 200px; */
+  cursor: pointer;
+}
